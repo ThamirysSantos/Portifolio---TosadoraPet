@@ -1,0 +1,14 @@
+.Gallery-text{
+  display: flex;
+  justify-content: center;
+  padding-top: 5rem;
+  margin-top: 10px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  text-transform: capitalize;
+  color: var(--text-black-900);
+}
+
+.image-list {
+  padding: 5rem ;
+}

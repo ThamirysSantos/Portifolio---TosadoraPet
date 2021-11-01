@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Viaoda+Libre&display=swap');
+
+.header {
+  padding: 20px 15px;
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 99;
+  background-color: #fa84a0;
+}
+
+.header .logo a{
+  font-family: 'Viaoda Libre', cursive;
+  display: inline-block;
+  text-align: center;
+  line-height: 40px;
+  height: 40px;
+  width: 80px;
+  font-size: 24px;
+  color: var(--skin-color);
+  border-radius: 30%;
+  border: 2px solid var(--skin-color);
+  font-weight: 600;
+}
+
+.linnks-container {
+  color: #fa84a0;
+
+}
